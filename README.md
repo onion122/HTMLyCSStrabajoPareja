@@ -1,2 +1,5 @@
-# HTMLyCSStrabajoPareja
-Tarea 2 Entornos de Desarrollo
+##### Trabajo en pareja
+## Francisco Javier Díaz
+Parte HTML
+## Javier García
+Parte CSS
